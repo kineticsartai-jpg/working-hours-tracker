@@ -1,2 +1,2 @@
 # working-hours-tracker
-Count down your yearly hours 
+Track you hours daily for annual financial year 
